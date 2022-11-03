@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "9c34a73f-33ee-4577-aba8-0982c1656ba7",
+    "name": "Tano",
+    "filename": "Tano",
+    "description": "Tano is the master of the Ghana river Tano.",
+    "gender": "Male",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " None. Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "385",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

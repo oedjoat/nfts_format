@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "c137ec2b-18cd-4c29-a194-af29ac9e6c1c",
+    "name": "ayo web3 bro",
+    "filename": "ayo-web3-bro",
+    "description": "no actual knowledge of basic computer principles",
+    "gender": "female",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " Brown"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "97",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

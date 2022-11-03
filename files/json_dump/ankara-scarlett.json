@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "66d0149f-5f2a-4ded-8e6b-9bd7d7631c39",
+    "name": "ankara scarlett",
+    "filename": "ankara-scarlett",
+    "description": "Scarlett is a tailor at yaba market and she loves what she does.",
+    "gender": "female",
+    "attributes": [
+        {
+            "trait_type": " Hair",
+            "value": " Orange bun. Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "402",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

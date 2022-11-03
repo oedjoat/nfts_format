@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "5cabf9d9-882b-459e-9253-8c07eb045e2d",
+    "name": "eddy the community",
+    "filename": "eddy-the-community",
+    "description": "Man of the people ",
+    "gender": "Male",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "none ,eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "127",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

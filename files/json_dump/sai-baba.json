@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "fdfff369-5b57-4612-9f89-f5d408f24a35",
+    "name": "sai baba",
+    "filename": "sai-baba",
+    "description": "bts leader of 3rd world",
+    "gender": "female",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " Brown"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "93",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

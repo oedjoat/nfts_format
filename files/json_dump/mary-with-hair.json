@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "98035e8b-6540-4464-8a3c-fdac9f07b168",
+    "name": "mary with hair",
+    "filename": "mary-with-hair",
+    "description": "Mary with her beautiful Afro ",
+    "gender": "Female",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " none,eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "139",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

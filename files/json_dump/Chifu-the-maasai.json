@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "239933c4-7177-4b5b-86e8-e6f952301344",
+    "name": "chifu the maasai",
+    "filename": "Chifu-the-maasai",
+    "description": "clothing inspired by maasai shuka",
+    "gender": "male",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " bald Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "331",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "dbdc1351-aa07-46e2-935f-2db071b1b23d",
+    "name": "Shakira the gangster",
+    "filename": "Shakira-the-gangster",
+    "description": "Shakira is the most feared criminal.",
+    "gender": "Female",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "brown braids"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "276",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

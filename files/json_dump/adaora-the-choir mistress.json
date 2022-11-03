@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "df944505-da1a-424e-88aa-b9d365bd2775",
+    "name": "adaora the choir mistress",
+    "filename": "adaora-the-choir mistress",
+    "description": "Adaora, our able choir mistress that will take your boyfriend for vanishing.",
+    "gender": "Female",
+    "attributes": [
+        {
+            "trait_type": " Hair",
+            "value": " black. Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "372",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

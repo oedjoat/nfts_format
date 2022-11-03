@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "1277e9c0-81dc-4747-89df-a9d2ae4fcf96",
+    "name": "phoebe queen bee",
+    "filename": "phoebe-queen-bee",
+    "description": "a self-centered woman, only thinks about herself",
+    "gender": "female",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " Brown flowing hair"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "98",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

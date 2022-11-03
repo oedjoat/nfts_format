@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "66a09968-cb92-4378-a588-49947f68c537",
+    "name": "dogbeda the monger",
+    "filename": "dogbeda-the-monger",
+    "description": "A fisherman who pracitically live in the river",
+    "gender": "male",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " orange and cream cap. Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "158",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

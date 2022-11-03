@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "403f28a0-6aa7-4f80-997f-b0982c169baa",
+    "name": "agba tech",
+    "filename": "agba-tech",
+    "description": "A tech bro that loves to party but has bad communication skill",
+    "gender": "Male",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " black. Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "236",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

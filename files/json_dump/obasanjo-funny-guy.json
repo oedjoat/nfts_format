@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "c136a120-a339-4080-96ca-1c93845c5848",
+    "name": "obasanjo funny guy",
+    "filename": "obasanjo-funny-guy",
+    "description": "Obasanjo is so hilarious ",
+    "gender": "Male",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "none ,eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "122",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

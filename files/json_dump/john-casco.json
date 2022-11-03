@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "2eff88ef-5bc2-4779-917a-533e952e2953",
+    "name": "john casco",
+    "filename": "john-casco",
+    "description": "silent killer",
+    "gender": "female",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " Black"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "89",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

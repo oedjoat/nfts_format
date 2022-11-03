@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "15e1caf2-06b3-45d8-9b35-f95965b64e34",
+    "name": "Izuchukwu the fisherman",
+    "filename": "Izuchukwu-the-fisherman",
+    "description": "A fisherman who knows how to paddle well",
+    "gender": "Male",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " Covered Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "294",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

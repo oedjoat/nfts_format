@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "29c764ca-59d3-11ed-9b6a-0242ac120002",
+    "name": "ghost of power",
+    "filename": "ghost-of-power",
+    "description": "a woman stronger than ten men combined",
+    "gender": "female",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": " black tied with scalf"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "69",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

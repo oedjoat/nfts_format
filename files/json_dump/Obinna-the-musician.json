@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "afdb0299-327c-46b2-9262-faf90f0fcd12",
+    "name": "Obinna the musician",
+    "filename": "Obinna-the-musician",
+    "description": "Obinna might never be an a-list artist",
+    "gender": "Male",
+    "attributes": [
+        {
+            "trait_type": "hair",
+            "value": "black"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "270",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

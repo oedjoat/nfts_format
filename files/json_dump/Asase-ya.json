@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "80b51092-3fbc-4d0c-8518-fc461ccb6c80",
+    "name": "Asase-ya",
+    "filename": "Asase-ya",
+    "description": "Asase-ya is the goddess of fertility and love of the Ghanaian people",
+    "gender": "Female",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " Brown Curly bun. Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "398",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "58764fd8-5ace-11ed-9b6a-0242ac120002",
+    "name": "stella the gossip",
+    "filename": "stella-the -gossip",
+    "description": "Nobody gossips on the block like stella when smoking.",
+    "gender": "Female",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " Red. Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "307",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

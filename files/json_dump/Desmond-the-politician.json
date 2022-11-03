@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "c52d4fbb-622b-4e2b-85a9-1a1d0f3d97d6",
+    "name": "Desmond the politician",
+    "filename": "Desmond-the-politician",
+    "description": "A young politician who just became a minister",
+    "gender": "Male",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " Covered Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "296",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

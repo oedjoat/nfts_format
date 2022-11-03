@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "ed04b47c-ae98-4db2-b71b-04d7bb976d45",
+    "name": "idoncare linda",
+    "filename": "idoncare-linda",
+    "description": "Linda is a beautiful but very annoying girl, she turns every thing into an argument.",
+    "gender": "female",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": " Orange bob. Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "413",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}

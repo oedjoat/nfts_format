@@ -1,0 +1,28 @@
+{
+    "format": "CHIP-0007",
+    "id": "bfb5e8d5-d7a7-4aa8-85e8-d7d9afd4adb3",
+    "name": "omondi the vegeterian",
+    "filename": "Omondi-the-vegeterian",
+    "description": "omondi wears a green coat",
+    "gender": "male",
+    "attributes": [
+        {
+            "trait_type": "Hair",
+            "value": "bald Eyes"
+        }
+    ],
+    "minting_tool": "OEDJOAT ######",
+    "sensitive_content": false,
+    "series_number": "324",
+    "series_total": "420",
+    "collection": {
+        "name": "Zuri NFT tickets for free lunch",
+        "id": "e43fcfe6-1d5c-4d6e-82da-5de3aa8b3b57"
+    },
+    "attribute": [
+        {
+            "type": "description",
+            "value": "Rewards for accomplishments during HNGi9"
+        }
+    ]
+}
