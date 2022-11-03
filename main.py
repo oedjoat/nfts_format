@@ -35,10 +35,12 @@ with open(output_file, 'w') as write_file:
                             'trait_type': hair_trait[0],
                             'value': hair_trait[1]
                         },
+
                         {
                             'trait_type': eye_trait[0],
                             'value': eye_trait[1]
                         },
+                        
                         {
                             'trait_type': teeth_trait[0],
                             'value': teeth_trait[1]
