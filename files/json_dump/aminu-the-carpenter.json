@@ -3,15 +3,43 @@
     "id": "4f30b751-96e7-40fe-97fd-e3d44973ff2f",
     "name": "aminu the carpenter",
     "filename": "aminu-the-carpenter",
-    "description": "Aminu's hands are blessed, he makes the best furniture in the whole of Kano.",
-    "gender": "male",
+    "description": "Aminu's hands are blessed; he makes the best furniture in the whole of Kano.",
+    "gender": "Male",
     "attributes": [
         {
             "trait_type": "hair",
-            "value": " bald"
+            "value": "bald"
+        },
+        {
+            "trait_type": " eyes",
+            "value": "blue"
+        },
+        {
+            "trait_type": " teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": " clothing",
+            "value": " yellow"
+        },
+        {
+            "trait_type": " accessories",
+            "value": " mask"
+        },
+        {
+            "trait_type": " expression",
+            "value": " none"
+        },
+        {
+            "trait_type": " strength",
+            "value": " powerful"
+        },
+        {
+            "trait_type": " weakness",
+            "value": " none"
         }
     ],
-    "minting_tool": "OEDJOAT ######",
+    "minting_tool": "",
     "sensitive_content": false,
     "series_number": "4",
     "series_total": "420",

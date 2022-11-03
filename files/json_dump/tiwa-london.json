@@ -3,15 +3,43 @@
     "id": "78da7aeb-8352-4e25-89ac-dc48b5984089",
     "name": "tiwa london",
     "filename": "tiwa-london",
-    "description": "If she says she's in London and you see her, you're in London too.",
-    "gender": "female",
+    "description": "If she says she's in London and you see her; you're in London too.",
+    "gender": "Female",
     "attributes": [
         {
             "trait_type": "hair",
-            "value": " braids"
+            "value": "braids"
+        },
+        {
+            "trait_type": " eyes",
+            "value": "none"
+        },
+        {
+            "trait_type": " teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": " clothing",
+            "value": " black top"
+        },
+        {
+            "trait_type": " accessories",
+            "value": " glasses"
+        },
+        {
+            "trait_type": " expression",
+            "value": " none"
+        },
+        {
+            "trait_type": " strength",
+            "value": " none"
+        },
+        {
+            "trait_type": " weakness",
+            "value": " untruthfulness"
         }
     ],
-    "minting_tool": "OEDJOAT ######",
+    "minting_tool": "",
     "sensitive_content": false,
     "series_number": "18",
     "series_total": "420",

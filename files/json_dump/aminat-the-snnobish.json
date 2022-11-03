@@ -4,14 +4,42 @@
     "name": "aminat the snnobish",
     "filename": "aminat-the-snnobish",
     "description": "Aminat never really wants to talk to anyone.",
-    "gender": "female",
+    "gender": "Female",
     "attributes": [
         {
             "trait_type": "hair",
-            "value": " brown bun"
+            "value": "brown bun"
+        },
+        {
+            "trait_type": " eyes",
+            "value": "none"
+        },
+        {
+            "trait_type": " teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": " clothing",
+            "value": " yellow"
+        },
+        {
+            "trait_type": " accessories",
+            "value": " glasses"
+        },
+        {
+            "trait_type": " expression",
+            "value": " blank"
+        },
+        {
+            "trait_type": " strength",
+            "value": " none"
+        },
+        {
+            "trait_type": " weakness",
+            "value": " attitude"
         }
     ],
-    "minting_tool": "OEDJOAT ######",
+    "minting_tool": "",
     "sensitive_content": false,
     "series_number": "3",
     "series_total": "420",

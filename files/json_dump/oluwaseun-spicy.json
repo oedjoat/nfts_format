@@ -4,14 +4,42 @@
     "name": "oluwaseun spicy",
     "filename": "oluwaseun-spicy",
     "description": "He loves spicy foods. He cooks pepper and sprinkles rice on top.",
-    "gender": "male",
+    "gender": "Male",
     "attributes": [
         {
             "trait_type": "hair",
-            "value": " bald"
+            "value": "bald"
+        },
+        {
+            "trait_type": " eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": " teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": " clothing",
+            "value": " yellow and purple agbada"
+        },
+        {
+            "trait_type": " accessories",
+            "value": " mask"
+        },
+        {
+            "trait_type": " expression",
+            "value": " none strength"
+        },
+        {
+            "trait_type": " weakness",
+            "value": " none"
+        },
+        {
+            "trait_type": " weakness",
+            "value": " none"
         }
     ],
-    "minting_tool": "OEDJOAT ######",
+    "minting_tool": "",
     "sensitive_content": false,
     "series_number": "16",
     "series_total": "420",

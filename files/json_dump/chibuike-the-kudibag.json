@@ -4,14 +4,42 @@
     "name": "chibuike the kudibag",
     "filename": "chibuike-the-kudibag",
     "description": "Chibuike is too rich. Everyone wonders how he got it.",
-    "gender": "male",
+    "gender": "Male",
     "attributes": [
         {
             "trait_type": "hair",
-            "value": " bald"
+            "value": "bald"
+        },
+        {
+            "trait_type": " eyes",
+            "value": "black"
+        },
+        {
+            "trait_type": " teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": " clothing",
+            "value": " blue"
+        },
+        {
+            "trait_type": " accessories",
+            "value": " mask"
+        },
+        {
+            "trait_type": " expression",
+            "value": " none"
+        },
+        {
+            "trait_type": " strength",
+            "value": " hustler"
+        },
+        {
+            "trait_type": " weakness",
+            "value": " none"
         }
     ],
-    "minting_tool": "OEDJOAT ######",
+    "minting_tool": "",
     "sensitive_content": false,
     "series_number": "5",
     "series_total": "420",

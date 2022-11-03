@@ -4,14 +4,42 @@
     "name": "ebiowie the planter",
     "filename": "ebiowie-the-planter",
     "description": "Ebiowei has a reputation for nurturing plants.",
-    "gender": "male",
+    "gender": "Male",
     "attributes": [
         {
             "trait_type": "hair",
-            "value": " bald"
+            "value": "bald"
+        },
+        {
+            "trait_type": " eyes",
+            "value": "none"
+        },
+        {
+            "trait_type": " teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": " clothing",
+            "value": " multicolored"
+        },
+        {
+            "trait_type": " accessories",
+            "value": " none"
+        },
+        {
+            "trait_type": " expression",
+            "value": " none"
+        },
+        {
+            "trait_type": " strength",
+            "value": " powerful"
+        },
+        {
+            "trait_type": " weakness",
+            "value": " none"
         }
     ],
-    "minting_tool": "OEDJOAT ######",
+    "minting_tool": "",
     "sensitive_content": false,
     "series_number": "9",
     "series_total": "420",

@@ -3,15 +3,43 @@
     "id": "09395e76-19ed-4852-8748-795ee7496a8e",
     "name": "charles the exporter",
     "filename": "charles-the-exporter",
-    "description": "charles a business man an importer and exporter never to be caught idle",
-    "gender": "male",
+    "description": "Charles a business man an importer and exporter never to be caught idle.",
+    "gender": "Male",
     "attributes": [
         {
             "trait_type": "hair",
-            "value": " none"
+            "value": "none"
+        },
+        {
+            "trait_type": " eyes",
+            "value": "grey"
+        },
+        {
+            "trait_type": " teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": " clothings",
+            "value": " orange and blue"
+        },
+        {
+            "trait_type": " accessories",
+            "value": " okpu ozo cap"
+        },
+        {
+            "trait_type": " expression",
+            "value": " happy"
+        },
+        {
+            "trait_type": " strength",
+            "value": " influential"
+        },
+        {
+            "trait_type": " weakness",
+            "value": " incessant"
         }
     ],
-    "minting_tool": "OEDJOAT ######",
+    "minting_tool": "",
     "sensitive_content": false,
     "series_number": "24",
     "series_total": "420",

@@ -3,15 +3,43 @@
     "id": "f2957ded-022c-4b07-92c6-b345d4816a67",
     "name": "salam the odogwu",
     "filename": "salam-the-odogwu",
-    "description": "salam is a big time textile marketer always sourcing for quality materials",
-    "gender": "male",
+    "description": "Salam is a big time textile marketer always sourcing for quality materials.",
+    "gender": "Male",
     "attributes": [
         {
             "trait_type": "hair",
-            "value": " none"
+            "value": "none"
+        },
+        {
+            "trait_type": " eyes",
+            "value": "brown"
+        },
+        {
+            "trait_type": " teeth",
+            "value": "none"
+        },
+        {
+            "trait_type": " clothings",
+            "value": " wine and yellow"
+        },
+        {
+            "trait_type": " accessories",
+            "value": " yayada cap"
+        },
+        {
+            "trait_type": " expression",
+            "value": " happy"
+        },
+        {
+            "trait_type": " strength",
+            "value": " influence"
+        },
+        {
+            "trait_type": " weakness",
+            "value": " impatience"
         }
     ],
-    "minting_tool": "OEDJOAT ######",
+    "minting_tool": "",
     "sensitive_content": false,
     "series_number": "23",
     "series_total": "420",
